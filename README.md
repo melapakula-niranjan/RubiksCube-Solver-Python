@@ -1,6 +1,6 @@
-# RubiksCube-Solver-Python
+#🧊  RubiksCube-Solver-Python
 A Python-based Rubik’s Cube solver built from scratch for the Collins Aerospace Design Dexterity Challenge. Uses custom data structures and logic to simulate valid cube moves and solve from any scrambled state — no external libraries used.
-# 🧊 Rubik’s Cube Solver – Python Implementation
+
 
 ## 📌 Overview
 An original Rubik’s Cube solver built entirely in Python, designed as part of the Collins Aerospace Design Dexterity Challenge 2025. This project models a 3x3 cube using a clean internal data structure and implements real-world move logic without using any third-party libraries.
